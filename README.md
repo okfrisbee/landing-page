@@ -1,1 +1,1 @@
-# landing-page
+Creating a webpage from a given design.
